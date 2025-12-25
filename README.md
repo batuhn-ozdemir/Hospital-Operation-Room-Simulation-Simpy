@@ -20,5 +20,6 @@ This project was developed as part of the Modelling and Simulation course. The p
 ### 4. Event Graph
 ![Event Graph](screenshots/ssEventGraph.png)
 *This diagram represents the Event Graph of the system, illustrating the logical flow and relationships between discrete events. It defines the state transitions and scheduling logic that govern the underlying simulation model.*
+
 ---
 *Developed for the Modelling and Simulation Course.*
